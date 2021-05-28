@@ -1,0 +1,28 @@
+{
+  "name": "easy-load",
+  "version": "1.1.6",
+  "description": "Create progress bars easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "load",
+    "bar",
+    "progress"
+  ],
+  "author": "Sly-Little-Fox",
+  "license": "UNLICENSED",
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sly-Little-Fox/easy-load.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sly-Little-Fox/easy-load/issues"
+  },
+  "homepage": "https://github.com/Sly-Little-Fox/easy-load#readme"
+}
