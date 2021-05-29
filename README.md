@@ -1,3 +1,5 @@
+# Easy Load
+
 Hello! This package provides ability to easily create progress bars. Try it yourself and, if you like it, go deeper!
 
 ## Examples
